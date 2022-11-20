@@ -1,0 +1,27 @@
+.heading
+{
+width: 100%;
+font-size: 30px;
+color: black;
+
+}
+
+.note
+{
+font-size: 20px;
+}
+
+#footer
+{
+bottom: 0;
+position:fixed;
+text-align: center;
+background-color: aqua;
+color: black;               
+width: 100%;
+}
+
+canvas
+{
+    border: 6px solid black;
+}
